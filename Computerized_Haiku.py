@@ -2,7 +2,7 @@
 Submitted by: Nicholas Bosco
 Student Number: 1005271171
 Submitted to: Prof Maher Elshakankiri
-Midterm Assignemnt INF451
+Midterm Assignemnt INF452
 Topic: Computerized Japanese Haiku using Python
 Date Created: 2022-10-25
 Date Submitted: 2022-11-2
