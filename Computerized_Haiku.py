@@ -1,11 +1,6 @@
 """
-Submitted by: Nicholas Bosco
-Student Number: 1005271171
-Submitted to: Prof Maher Elshakankiri
-Midterm Assignemnt INF452
+By: Nicholas Bosco
 Topic: Computerized Japanese Haiku using Python
-Date Created: 2022-10-25
-Date Submitted: 2022-11-2
 """
 
 # Preamble: I would like to inset an image of the page onto python to show user the lists and semantic schema (diagram). 
