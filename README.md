@@ -1,11 +1,7 @@
 # Computerized Japanese Haiku
 
-1. Submitted by: Nicholas Bosco, 1005271171
-2. Submitted to: Professor Maher Elshakankiri
-3. Topic: Computerized Japanese haiku using Python
-4. Course: INF452
-5. Date Created: 2022-10-25
-6. Date Submitted: 2022-10-26
+1. By: Nicholas Bosco
+2. Topic: Computerized Japanese haiku using Python
 
 # Background Information
 
